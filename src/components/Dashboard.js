@@ -4,7 +4,7 @@ import Analytics from "./Analytics";
 import Earnings from "./Earnings";
 import Customers from "./Customers";
 import Navbar from "./Navbar";
-import Orders from "./Orders";
+import Stock from "./Stock";
 import scrollreveal from "scrollreveal";
 export default function Dashboard() {
   useEffect(() => {
@@ -36,7 +36,7 @@ export default function Dashboard() {
         </div>
         <div className="row__two">
           <Customers />
-          <Orders />
+          <Stock />
         </div>
       </div>
     </Section>
