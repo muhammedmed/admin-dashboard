@@ -220,7 +220,7 @@ const Section = styled.section`
         &:hover {
           background-color: #0730ff;
           span {
-            color: black;
+            color: white;
           }
         }
         span {

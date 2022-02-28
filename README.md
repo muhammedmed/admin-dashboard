@@ -1,4 +1,4 @@
-# React Admin Dashboard Ui 
+# React Admin Dashboard UI
 
 This application is currently not responsive. Admin dashboard construction with Styled component.
 
