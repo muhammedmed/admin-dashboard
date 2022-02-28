@@ -182,7 +182,7 @@ export default function Earnings() {
               animationDuration={2000}
               type="monotone"
               dataKey="data"
-              stroke="#ffc107"
+              stroke="#0730ff"
               fill="#8068233e"
               strokeWidth={4}
             />
@@ -218,13 +218,13 @@ const Section = styled.section`
         border-radius: 1rem;
         transition: 0.3s ease-in-out;
         &:hover {
-          background-color: #ffc107;
+          background-color: #0730ff;
           span {
             color: black;
           }
         }
         span {
-          color: #ffc107;
+          color: black;
         }
       }
     }
